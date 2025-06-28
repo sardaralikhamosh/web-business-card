@@ -75,20 +75,20 @@
 <body>
     <div class="card">
         <div class="logo">
-            <img src="img/2.png" alt="AV Media Logo">
+            <img src="img/1.png" alt="AV Media Logo">
         </div>
         <div class="info">
-            <h2 style="color:#4c2d80;">Sarah Seddiki</h2>
-            <p>Responsable des relations clients</p>
+            <h2 style="color:#4c2d80;">Sardar Ali Khamosh</h2>
+            <p>Professional Website Developer</p>
             <hr>
-            <p><i class="fas fa-phone-disabled"></i>T : 450-396-9993</p>
-            <p><i class="fas fa-phone-disabled"></i>M : 438-395-5684</p>
+            <p><i class="fas fa-phone-disabled"></i>T : +923415336669</p>
+            <p><i class="fas fa-phone-disabled"></i>M : +923145214774</p>
             <p><i class="fas fa-envelope-disabled"></i><a href="mailto:sarah@ls2.ca">sarah@ls2.ca</a></p>
-            <p><i class="fas fa-globe-disabled"></i>Canada | <a href="https://ls2.ca" target="_blank">https://ls2.ca</a></p>
+            <p><i class="fas fa-globe-disabled"></i>Pakistan | <a href="https://ls2.ca" target="_blank">https://shinisa.com</a></p>
             <div class="social-icons-disabled">
-                <a href="#"><i class="fab fa-instagram-disabled"></i></a>
-                <a href="#"><i class="fab fa-twitter-disabled"></i></a>
-                <a href="#"><i class="fab fa-youtube-disabled"></i></a>
+                <a href="https://www.instagram.com/sardarali_khamosh/"><i class="fab fa-instagram-disabled"></i></a>
+                <a href="https://x.com/sardar_khamosh"><i class="fab fa-twitter-disabled"></i></a>
+                <a href="https://www.youtube.com/@sardaralikhamoshofficial"><i class="fab fa-youtube-disabled"></i></a>
             </div>
         </div>
     </div>
